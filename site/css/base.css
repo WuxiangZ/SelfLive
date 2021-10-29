@@ -1,3 +1,6 @@
+*{
+    font-family: Times New Roman,STXingkai;
+}
 html {
     /* csslint ignore:start */
     /* The nav header is 3.5rem high, plus 20px for the margin-top of the

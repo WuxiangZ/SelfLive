@@ -1,0 +1,25 @@
+.col-md-9 p{ 
+    margin: 5px;
+    text-indent: 36px;
+    font-size: 18px;
+}
+.recount {
+    display: flex;
+    border: whitesmoke 1px solid;
+}
+.recount img{
+    width: 200px;
+    height: 200px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* 躺平板块 */
+.uniteIcon{
+    font-size: 16px;
+}
+
+.deface img{
+    margin-left: 292px;
+}
+
