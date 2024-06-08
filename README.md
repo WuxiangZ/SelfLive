@@ -3,3 +3,12 @@
 + https://wuxiangz.github.io/xsjs/site/index.html
 + www.xsjs.xyz
 + wait for npm packages
+
+##in 2024/0608 
++ 企业常用的git命令练习
++ -git clone 下载代码
+
+
+
+
++ 不删除这个库的原因是--这是我的第一个网站
